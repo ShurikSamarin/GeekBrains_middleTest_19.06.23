@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\bin\Debug\net6.0\GeekBrains_middleTest_19.06.23.exe
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\bin\Debug\net6.0\GeekBrains_middleTest_19.06.23.deps.json
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\bin\Debug\net6.0\GeekBrains_middleTest_19.06.23.runtimeconfig.json
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\bin\Debug\net6.0\GeekBrains_middleTest_19.06.23.dll
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\bin\Debug\net6.0\GeekBrains_middleTest_19.06.23.pdb
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\obj\Debug\net6.0\GeekBrains_middleTest_19.06.23.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\obj\Debug\net6.0\GeekBrains_middleTest_19.06.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\obj\Debug\net6.0\GeekBrains_middleTest_19.06.23.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\obj\Debug\net6.0\GeekBrains_middleTest_19.06.23.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\obj\Debug\net6.0\GeekBrains_middleTest_19.06.23.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\obj\Debug\net6.0\GeekBrains_middleTest_19.06.23.dll
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\obj\Debug\net6.0\refint\GeekBrains_middleTest_19.06.23.dll
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\obj\Debug\net6.0\GeekBrains_middleTest_19.06.23.pdb
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\obj\Debug\net6.0\GeekBrains_middleTest_19.06.23.genruntimeconfig.cache
+C:\Users\Александр\Desktop\Lesson C# 23.04.23\Test\GeekBrains_middleTest_19.06.23\obj\Debug\net6.0\ref\GeekBrains_middleTest_19.06.23.dll
